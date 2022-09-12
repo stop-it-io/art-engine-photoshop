@@ -103,3 +103,26 @@ build
 
 # TernJS port file
 .tern-port
+
+# IDEs
+.idea
+
+# Eclipse specific git ignore
+*.pydevproject
+.project
+.metadata
+bin/**
+tmp/**
+tmp/**/*
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.classpath
+.settings/
+.loadpath
+
+
+# Build folder
+build/
