@@ -16,6 +16,17 @@ It has been heavily modified for needs of our own collections.
   - ability to generate a CSV file with metadata,
   - ability to suppress most of the prompts when generating using configuration.
 
+## Usage
+Running a script is fairly easy.
+1. Open Photoshop with your NFT project. Keep in mind that the script requires certain structure of folders/groups and layers.
+2. The expected structure is:
+   - Folder/group (trait group)
+     - Layer (individual traits within trait group)
+3. (Optional) Setup static layers (the ones you do not expect to be randomized) to be visible.
+4. (Optional) Change the configuration of the script (see below).
+5. Run the script from the Photoshop menu. File -> Scripts -> Browse... -> generate.js
+6. Wait for the script to finish.
+
 ## Configuration options
 Configuration options can be changed in `generate.js` script, top section.
 - `ignoredLayers`: (string[])
