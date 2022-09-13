@@ -1,7 +1,7 @@
 # NFT art engine for Photoshop
 Originally forked from [HashLips](hashlips_art_engine_ps_script) where all credit is due for the original source code.
 
-Curated for [Hedera](https://hedera.com) network by [Stop-It.io](https://stop-it.io)
+Curated for [Hedera](https://hedera.com) network by [Stop-It.io](https://stop-it.io).
 
 This script allows you to generate art works right from Photoshop. 
 It has been heavily modified for needs of our own collections.
