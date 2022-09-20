@@ -126,3 +126,6 @@ local.properties
 
 # Build folder
 build/
+
+#OS X
+.DS_Store
